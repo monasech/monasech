@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @monasech
-- 👀 I’m interested in NLP and Computer Vision
-- 🌱 I’m currently learning NLP and Deep Learning online at UT Austin's MSCSO
+- 👀 I’m interested in software
+- 🌱 I’m currently learning software engineering fundamentals, I'm switching from Chemical Engineering
 - 💞️ I’m looking to contribute to OSS at some point soon
 - 📫 You can reach me at my twitter handle @monasech or here on Github
 
