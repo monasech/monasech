@@ -1,4 +1,4 @@
-- 📫 You can reach me at my twitter handle @monasech or here on Github
+- 📫 Shoot me an email at Monasech@umich.edu!
 
 <!---
 monasech/monasech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
